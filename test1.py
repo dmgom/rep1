@@ -165,6 +165,6 @@ plt.figure(figsize = (15,15))
 p1 = sns.heatmap(df,linewidths=0)
 
 plt.legend("Analisis de sensiblidad de k y r")
-plt.xlabel('Sensibilidad k')
+plt.xlabel('Sensibilidad_k')
 plt.ylabel('Sensibilidad r')
 plt.show()
